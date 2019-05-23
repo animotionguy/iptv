@@ -13,3 +13,9 @@ https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="TVJ" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc4UioWVnQJdT1LzUf6zhhy4LD8Jzw1k5v8lnDu9mrpLuzI5-nRuyf6bo" group-title="JAMAICA",TVJ
+http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8
+#EXTINF:0  tvg-id="" tvg-name="" tvg-logo="https://38.media.tumblr.com/tumblr_lkw3jumInv1qddpvto1_250.gif" group-title="JAMAICA",TVJ 2
+http://univ-i.akamaihd.net/hls/live/222630/group2/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="TVJ" tvg-logo="https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-0/p118x90/1393764_558984244180507_836226594_n.jpg?oh=7bd9480b3844a40c04b9360429a8685d&oe=566D86F8&__gda__=1453652357_2317e63d6f3e4ed43e9a84fcb620ebe8" group-title="Entertainment",TVJ Jamaica (Entertainment) (JM) (Jamaican)
+http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
