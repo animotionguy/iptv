@@ -69,7 +69,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MyRpTRc.jpg" group-title="USA",Benicia TV
 https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
-#EXTINF:-1 tvg-ID="BET.us" tvg-name="BET US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" group-title="USA-SERVER1",Bet
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" group-title="USA-SERVER1",Bet
 http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA/Canada-WebTV",Beto TV (Lifestyle)
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
