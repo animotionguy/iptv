@@ -69,6 +69,8 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MyRpTRc.jpg" group-title="USA",Benicia TV
 https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1024px-BET_Logo.svg.png" group-title="",BET
+http://espn.tmedia.me/cache/bet.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="bet.us" tvg-name="BET US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" group-title="USA-SERVER1",Bet
 http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA/Canada-WebTV",Beto TV (Lifestyle)
@@ -407,6 +409,8 @@ http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",GREENSBORO TV NETWORK [360p]
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="",HBO (LA)
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
